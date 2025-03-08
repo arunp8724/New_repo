@@ -1,4 +1,4 @@
 # New_repo
-A new repo
+To create a new repo
 <br>
 means files
